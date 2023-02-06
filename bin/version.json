@@ -1,8 +1,8 @@
 {
-  "id": "1.19.2",
-  "inheritsFrom": "1.19.2",
-  "releaseTime": "2022-12-13T18:03:57+0000",
-  "time": "2022-12-13T18:03:57+0000",
+  "id": "1.19.3",
+  "inheritsFrom": "1.19.3",
+  "releaseTime": "2023-02-06T15:47:07+0000",
+  "time": "2023-02-06T15:47:07+0000",
   "type": "release",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
   "libraries": [
@@ -23,31 +23,31 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm:9.3",
+      "name": "org.ow2.asm:asm:9.4",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-analysis:9.3",
+      "name": "org.ow2.asm:asm-analysis:9.4",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-commons:9.3",
+      "name": "org.ow2.asm:asm-commons:9.4",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-tree:9.3",
+      "name": "org.ow2.asm:asm-tree:9.4",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-util:9.3",
+      "name": "org.ow2.asm:asm-util:9.4",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:intermediary:1.19.2",
+      "name": "net.fabricmc:intermediary:1.19.3",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:fabric-loader:0.14.11",
+      "name": "net.fabricmc:fabric-loader:0.14.14",
       "url": "https://maven.fabricmc.net/"
     }
   ],
